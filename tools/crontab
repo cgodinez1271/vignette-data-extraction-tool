@@ -1,0 +1,1 @@
+*/5 * * * * (cd /data/timeinc/content/qa/feeds/htdocs/migrate/ew/tools; ./batch2.pl; ./batch3.pl)
